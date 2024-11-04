@@ -5,3 +5,9 @@ TO USE:
 2. Unzip
 3. Run the application file
 4. DO NOT DELETE ANY FILES ASSOCIATED WITH HORIZON AI AS IT WILL CAUSE THE CODE TO NOT WORK
+
+FEATURES:
+Single-operation math, date ,time, jokes, facts, and limited knowledge
+Answer multiple prompts (without dynamic responce
+_____
+Please report any bugs you find in the program
