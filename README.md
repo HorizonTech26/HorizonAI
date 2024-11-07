@@ -7,7 +7,7 @@ TO USE:
 4. DO NOT DELETE ANY FILES ASSOCIATED WITH HORIZON AI AS IT WILL CAUSE THE CODE TO NOT WORK
 
 FEATURES:
-Single-operation math, date ,time, jokes, facts, and limited knowledge
+Single-operation math, date ,time, jokes, facts, and limited knowledge.
 Answer multiple prompts (without dynamic responce)
 Weather (via Open Weather Map API)
 Define words (via PyDictionary) (Accesed by saying "Define" and then your word)
