@@ -8,6 +8,8 @@ TO USE:
 
 FEATURES:
 Single-operation math, date ,time, jokes, facts, and limited knowledge
-Answer multiple prompts (without dynamic responce
+Answer multiple prompts (without dynamic responce)
+Weather (via Open Weather Map API)
+Define words (via PyDictionary) (Accesed by saying "Define" and then your word)
 _____
 Please report any bugs you find in the program
