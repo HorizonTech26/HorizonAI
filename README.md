@@ -13,3 +13,6 @@ Weather (via Open Weather Map API)
 Define words (via PyDictionary) (Accesed by saying "Define" and then your word)
 _____
 Please report any bugs you find in the program
+_____
+FOR DEVELOPERS:
+Use the sourse code to explore and imporve upon the program
