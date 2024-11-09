@@ -12,7 +12,7 @@ Answer multiple prompts (without dynamic responce)
 Weather (via Open Weather Map API)
 Define words (via PyDictionary) (Accesed by saying "Define" and then your word)
 _____
-Please report any bugs you find in the program
-_____
 FOR DEVELOPERS:
-Use the sourse code to explore and imporve upon the program
+1. Download source code (data file is required to function)
+2. Explore and imporve upon the code
+3. Please report any bugs you find in the program
