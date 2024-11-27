@@ -1,5 +1,5 @@
 Jokes = {
-    "1": "What's a computer's favorite snakc? Microchips!",
+    "1": "What's a computer's favorite snack? Microchips!",
     "2": "Why did the golfer bring two pairs of pants? In case he got a hole in one!",
     "3": "Why did the scarecrow win an award? Because he was outstanding in his field!",
     "4": "What do you call fake spaghetti? An impasta!",
